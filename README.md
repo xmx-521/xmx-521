@@ -2,6 +2,8 @@
 
 ### my blog:[https://manxin521.site](https://manxin521.site)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xmx-521&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xmx-521&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmx-521&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmx-521&layout=compact&exclude_repo=xmx-521.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=1426356297)](https://github.com/anuraghazra/github-readme-stats)
